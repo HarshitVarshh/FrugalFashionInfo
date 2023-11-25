@@ -178,12 +178,6 @@ function AboutUs() {
       img: logo25,
       content:
         "",
-    },
-    {
-      title: "",
-      img: logo26,
-      content:
-        "",
     }
   ];
   return (
@@ -192,20 +186,17 @@ function AboutUs() {
       <br />
       <p>
         
-        Before we discuss those methods of frugal innovation, first understand what is fast fashion and how it affects the environment?
+        <h3>Before we discuss those methods of frugal innovation, first understand what is fast fashion and how it affects the environment?</h3>
 
       </p>
       <br />
-      <br />
-      <br />
       <p>
-        1.Fast fashion
+        <h4>1.Fast fashion</h4>
       </p>
       <br />
       <p>
-        2.Frugal Innovation
+        <h4>2.Frugal Innovation</h4>
       </p>
-      <br />
       <br />
       <br />
     <div >

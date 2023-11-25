@@ -23,7 +23,7 @@ function App() {
               element={<Info />} 
             />
             <Route
-              path="/"
+              path="/FrugalFashionInfo/"
               element={<Project />} 
             />
             <Route path="/aboutus" element={<AboutUs />} />

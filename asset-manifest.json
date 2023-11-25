@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/FrugalFashionInfo/static/css/main.c9f7948c.css",
-    "main.js": "/FrugalFashionInfo/static/js/main.289561b5.js",
+    "main.css": "/FrugalFashionInfo/static/css/main.08d5406f.css",
+    "main.js": "/FrugalFashionInfo/static/js/main.a78e59f5.js",
     "static/js/787.d0da2bc9.chunk.js": "/FrugalFashionInfo/static/js/787.d0da2bc9.chunk.js",
     "static/media/Picture17.png": "/FrugalFashionInfo/static/media/Picture17.ec5719cf8932ea97d603.png",
     "static/media/Picture9.png": "/FrugalFashionInfo/static/media/Picture9.f877676b117cd378a578.png",
@@ -34,12 +34,12 @@
     "static/media/Picture18.jpg": "/FrugalFashionInfo/static/media/Picture18.962830d6efb69f754642.jpg",
     "static/media/Picture4.jpg": "/FrugalFashionInfo/static/media/Picture4.dbee5250a3d705a368e5.jpg",
     "index.html": "/FrugalFashionInfo/index.html",
-    "main.c9f7948c.css.map": "/FrugalFashionInfo/static/css/main.c9f7948c.css.map",
-    "main.289561b5.js.map": "/FrugalFashionInfo/static/js/main.289561b5.js.map",
+    "main.08d5406f.css.map": "/FrugalFashionInfo/static/css/main.08d5406f.css.map",
+    "main.a78e59f5.js.map": "/FrugalFashionInfo/static/js/main.a78e59f5.js.map",
     "787.d0da2bc9.chunk.js.map": "/FrugalFashionInfo/static/js/787.d0da2bc9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c9f7948c.css",
-    "static/js/main.289561b5.js"
+    "static/css/main.08d5406f.css",
+    "static/js/main.a78e59f5.js"
   ]
 }

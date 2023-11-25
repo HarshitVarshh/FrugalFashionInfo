@@ -1,0 +1,85 @@
+.header_container{
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+.header{
+    display: flex;
+    flex-direction: column;
+    width: 60vw;
+    margin: auto; 
+}
+.header_top{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    width: 150px;
+    object-fit: contain;
+}
+.header_top_contact{
+    display: flex;
+    align-items: center;
+}
+.header_top_contact>p{
+    font-weight: bold;
+    font-size: 17px;
+}
+.header_bottom{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    z-index: 5;
+}
+.header_bottom_left,.header_bottom_right{
+    background-color: rgb(153, 144, 121);
+    padding: 15px;
+}
+.callicon{
+    font-size: 40px !important;
+    margin-right: 10px !important;
+}
+.calldata{
+    text-align: center;
+}
+.calldata>span{
+    color: blue;
+    font-size: 13px;
+}
+.header_bottom_left{
+    flex: 0.9;
+    display: flex;
+    justify-content: space-around;
+}
+.header_bottom_right{
+    flex: 0.09;
+}
+.linksinheader{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+}
+.linksinheadermenu{
+    text-decoration: none;
+    cursor: pointer;
+    color: black;
+    font-weight: bold;
+    font-size: 14px !important;
+}
+.balckbox{
+    height: 50px;
+    background-color: black;
+    position: relative;
+    bottom: 25px;
+    z-index: 3;
+}
+
+.menuandimage{
+    display: flex;
+    align-items: center;
+}
+.menucontainer{
+    display: none;
+}

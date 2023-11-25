@@ -1,0 +1,21 @@
+.app{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+.body_image{
+  background-color: rgb(44, 43, 43);
+  width: 100%;  
+  object-fit: contain;
+  height: 60vh;
+}
+.body_content{
+  padding: 30px;
+  padding-top: 50px;
+  width: 60vw;
+  margin: auto;
+  
+}
+.card_container{
+  display: flex;
+}
